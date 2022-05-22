@@ -20,8 +20,8 @@ I'm especially proud of this project because I personally got hooked on playing 
 * Use the RIGHT_MOUSE_BUTTON to place a flagtiles.
 * Press the smiley button to restart the game at any point
 * If there's an uncovered tile with a number of flags - similar to the number on the tile - next to the tile itself, the user can press said tile to uncover all neighboring tiles other than the ones that have been flagged.
-<img align="left" alt="Pre Click" src="https://i.gyazo.com/3d8d98bd8d05977c4030b93b5b7736b6.png"/> <br> <br> <br> <br> <br>
-**---->** 											    
+<img align="left" alt="Pre Click" src="https://i.gyazo.com/3d8d98bd8d05977c4030b93b5b7736b6.png"/> <br> <br> 
+**---->** 
 <img align="left" alt="Post Click" src="https://i.gyazo.com/2fb827e6afe113e6154e437de2cd3356.png"/> <br> <br> <br> <br> <br> <br> 
 
 ### How the game works
